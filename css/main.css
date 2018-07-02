@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .hidden {
   display: none;
 }
@@ -12,6 +13,11 @@
 
 .color2 {
   background-color: hotpink;
+=======
+body {
+  background: url("../images/logo-adalab-80px.png") center center no-repeat #fff;
+  height: 100vh;
+>>>>>>> ca599412a11114baedfe4b340763533ef1e72fbb
 }
 
 /*# sourceMappingURL=main.css.map */

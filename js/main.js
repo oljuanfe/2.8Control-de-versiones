@@ -1,5 +1,6 @@
 'use strict';
 
+<<<<<<< HEAD
 // var numbers = [
 //   1,
 //   2,
@@ -90,3 +91,6 @@ function theYoungest(){
 }
 
 console.log(theYoungest());
+=======
+console.log('>> Ready :)');
+>>>>>>> ca599412a11114baedfe4b340763533ef1e72fbb
